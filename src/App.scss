@@ -1,0 +1,12 @@
+@import 'antd/dist/antd.css';
+
+.App {
+  margin: 0px 200px;
+  min-width: 800px;
+  .app-spacing {
+    height: 50;
+  }
+  .content {
+    padding: 10px;
+  }
+}
