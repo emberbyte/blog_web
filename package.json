@@ -18,6 +18,8 @@
     ]
   },
   "dependencies": {
+    "@ffmpeg/core": "^0.8.5",
+    "@ffmpeg/ffmpeg": "^0.9.7",
     "antd": "^4.12.3",
     "mobx": "^6.1.7",
     "mobx-react": "^7.1.0",

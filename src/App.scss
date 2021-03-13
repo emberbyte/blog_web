@@ -1,8 +1,13 @@
 @import 'antd/dist/antd.css';
 
+body {
+  background: rgb(243, 240, 239);
+}
+
 .App {
   margin: 0px 200px;
   min-width: 800px;
+  background: rgb(243, 240, 239);;
   .app-spacing {
     height: 50;
   }
